@@ -1,0 +1,22 @@
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.exe
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.deps.json
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.runtimeconfig.json
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.runtimeconfig.dev.json
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.dll
+E:\C#\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.pdb
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.csproj.AssemblyReference.cache
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\App.g.cs
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2_MarkupCompile.cache
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2_MarkupCompile.lref
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\MainWindow.baml
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.g.resources
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.AssemblyInfoInputs.cache
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.AssemblyInfo.cs
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.csproj.CoreCompileInputs.cache
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.dll
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\refint\fruit ninja2.dll
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.pdb
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.genruntimeconfig.cache
+E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\ref\fruit ninja2.dll
