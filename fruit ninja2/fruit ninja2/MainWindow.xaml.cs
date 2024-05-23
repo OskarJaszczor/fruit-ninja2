@@ -37,13 +37,13 @@ namespace fruit_ninja2
 
 
                 double beginingHorizontalVelocity = random.Next(5, 10);
-                double beginingVerticalVelocity = -random.Next(20, 25);
+                double beginingVerticalVelocity = -random.Next(15, 20);
                 double gravity = 9.8;
                 double time = 0;
-
+                Rectangle r = null;
                 Dispatcher.Invoke(new Action(() =>
                 {
-                    Rectangle r = new Rectangle();
+                    r = new Rectangle();
 
                     SolidColorBrush fillColor = new SolidColorBrush(Color.FromRgb((byte)random.Next(0, 255), (byte)random.Next(0, 255), (byte)random.Next(0, 255)));
                     Point position = new Point(random.Next(0, (int)this.Width) - 100, random.Next(500, 550));
@@ -51,30 +51,37 @@ namespace fruit_ninja2
                     r.Width = width;
                     r.Height = height;
                     r.Fill = fillColor;
-                    Canvas.SetLeft(r, random.Next(0, (int)this.Width) - 100);
-                    Canvas.SetTop(r, random.Next(500, 550));
+                    Canvas.SetLeft(r, random.Next(0, (int)this.Width) - 500);
+                    Canvas.SetTop(r, random.Next(490- 100, 395));
                     //MyRectangle myRectangle = new MyRectangle(width, height, fillColor, position, velocity);
                     //rectangles.Add(myRectangle);
                     rectangles.Add(r);
                     myCanvas.Children.Add(r);
+                }));
 
-
-                    while (true)
+                while (true)
                     {
-                        Thread.Sleep(20);
+                    double x = 0;
+                    double y = 0; 
+                    Thread.Sleep(21);
+                    Dispatcher.Invoke(new Action(() =>
+                    {
+                        x = Canvas.GetLeft(r);
+                        y = Canvas.GetTop(r);
 
-                        double x = Canvas.GetLeft(r);
-                        double y = Canvas.GetTop(r);
+                    }));
 
-                        double newX = x + beginingHorizontalVelocity * time;
-                        double newY = y + (beginingVerticalVelocity * time) + (0.5 * gravity * time * time);
+                    double newX = x + beginingHorizontalVelocity * time;
+                    double newY = y + (beginingVerticalVelocity * time) + (0.5 * gravity * time * time);
 
+                    Dispatcher.Invoke(new Action(() =>
+                    {
                         Canvas.SetLeft(r, newX);
                         Canvas.SetTop(r, newY);
-
-                        time += 0.1;
+                    }));
+                    time += 0.1;
                     }
-                }));
+                
 
             });
 
@@ -96,6 +103,8 @@ namespace fruit_ninja2
 
         public MainWindow()
         {
+            InitializeComponent();
+
 
             for(int i = 0; i < 2; i++)
             {

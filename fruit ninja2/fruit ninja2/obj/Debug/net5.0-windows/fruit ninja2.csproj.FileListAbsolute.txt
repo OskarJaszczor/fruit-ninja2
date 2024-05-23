@@ -20,3 +20,25 @@ E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\refint\fruit ninja2.dll
 E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.pdb
 E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.genruntimeconfig.cache
 E:\C#\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\ref\fruit ninja2.dll
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.exe
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.deps.json
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.runtimeconfig.json
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.runtimeconfig.dev.json
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.dll
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\ref\fruit ninja2.dll
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\bin\Debug\net5.0-windows\fruit ninja2.pdb
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.csproj.AssemblyReference.cache
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\App.g.cs
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2_MarkupCompile.cache
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2_MarkupCompile.lref
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\MainWindow.baml
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.g.resources
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.GeneratedMSBuildEditorConfig.editorconfig
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.AssemblyInfoInputs.cache
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.AssemblyInfo.cs
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.csproj.CoreCompileInputs.cache
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.dll
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\ref\fruit ninja2.dll
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.pdb
+D:\oskarjaszczor\fruit-ninja2\fruit ninja2\fruit ninja2\obj\Debug\net5.0-windows\fruit ninja2.genruntimeconfig.cache
